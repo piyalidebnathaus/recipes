@@ -5,4 +5,6 @@
 - shagshgahs
 # Instructions
 - Clean and chop the ingredients
-- put the avocado in the bowl. I am changing this instruction.
+<<<<<<< HEAD
+- Add lime juice in the bowl
+>>>>>>> 7e2c1da74536f44cc900151a56b5a8a480623202
