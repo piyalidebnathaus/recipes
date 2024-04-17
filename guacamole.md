@@ -4,3 +4,5 @@
 - salt ($4)
 - shagshgahs
 # Instructions
+- Clean and chop the ingredients
+- put the avocado in the bowl
