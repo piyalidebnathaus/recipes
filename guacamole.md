@@ -1,5 +1,5 @@
 # Ingredients
-- avocado
-- lime
-- salt
+- avocado ($3)
+- lime ($5)
+- salt ($4)
 # Instructions
